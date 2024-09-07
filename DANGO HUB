@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DONGOHUB/PRO/main/README.md", true))()
